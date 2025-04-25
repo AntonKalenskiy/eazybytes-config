@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Batman, welcome to EazyBank accounts related webhook APIs"
+  message: "bRUCE WAYNE, welcome to EazyBank accounts related webhook APIs"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}06631758d178c1fe9a890003a5dfa99a02e2379c5cbd66d5140b2b09cd06eaa77298f9b814526758522756d8b1302169"
