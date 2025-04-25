@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Ironman, Welcome to EazyBank cards related QA APIs "
+  message: "TONY STARK, Welcome to EazyBank cards related QA APIs "
   contactDetails:
     name: "Cherryl Pankaj - QA Lead"
     email: "cherryl@eazybank.com"
