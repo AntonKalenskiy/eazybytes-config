@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to GoTTTThem accounts related ArkKKKKKKKKKKKKKKKKKKKKKKhem APIs "
+  message: "Welcome to GoThem accounts related Arkhem APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
